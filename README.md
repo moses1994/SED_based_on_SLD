@@ -10,5 +10,5 @@ Fig. 7: Confusion matrix of audio tagging for all 41 classes of events.
   
   
   
-![fig4](https://github.com/moses1994/SED_based_on_SLD/blob/master/fig41.PNG)
+![fig4-1](https://github.com/moses1994/SED_based_on_SLD/blob/master/fig4-1.PNG)
 Fig. 4: The results of ER for all 41 classes of events in frame level, the specific value of the proposed method is shown. Lower ER indicates better.
